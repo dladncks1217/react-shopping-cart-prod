@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/react-shopping-cart-prod/static/css/main.e136e837.css",
-    "main.js": "/react-shopping-cart-prod/static/js/main.7c2d211b.js",
+    "main.css": "/react-shopping-cart-prod/static/css/main.1a1926d9.css",
+    "main.js": "/react-shopping-cart-prod/static/js/main.0ab182db.js",
+    "static/media/order-success.svg": "/react-shopping-cart-prod/static/media/order-success.338c1bd35d52600954bcf79e675be4fa.svg",
+    "static/media/tung.svg": "/react-shopping-cart-prod/static/media/tung.a6408830245826a925f98d5ca752ab2f.svg",
     "static/media/logo.png": "/react-shopping-cart-prod/static/media/logo.30ec34f55edbd1b1cdd6.png",
+    "static/media/coupon-icon.svg": "/react-shopping-cart-prod/static/media/coupon-icon.2b40514d1c129fce146e3eacca49307e.svg",
     "static/media/cart-icon.svg": "/react-shopping-cart-prod/static/media/cart-icon.0b48225a6e377c5bf0d9b2ce9bae3e9f.svg",
     "static/media/trashCan.svg": "/react-shopping-cart-prod/static/media/trashCan.cdfa98e9e798d3393825ae7ac4646706.svg",
     "index.html": "/react-shopping-cart-prod/index.html",
+    "static/media/order-list-icon.svg": "/react-shopping-cart-prod/static/media/order-list-icon.e061bb2a6dde8473875b65aba645774b.svg",
     "static/media/unchecked-icon.svg": "/react-shopping-cart-prod/static/media/unchecked-icon.f1edbdc31fa605ce1e102fb43ba586d6.svg",
     "static/media/checked-icon.svg": "/react-shopping-cart-prod/static/media/checked-icon.67e70f1f1a99f9b8107eb8c540e2ca44.svg",
+    "static/media/menu-icon.svg": "/react-shopping-cart-prod/static/media/menu-icon.1fc76dfb7c2cf1db0ce1954a3cfe6420.svg",
     "static/media/add-icon.svg": "/react-shopping-cart-prod/static/media/add-icon.2be3206134e870fd10e4a287f261f6d1.svg",
     "static/media/minus-icon.svg": "/react-shopping-cart-prod/static/media/minus-icon.aab758d5d95ddbab3e8247db238418fc.svg",
-    "main.e136e837.css.map": "/react-shopping-cart-prod/static/css/main.e136e837.css.map",
-    "main.7c2d211b.js.map": "/react-shopping-cart-prod/static/js/main.7c2d211b.js.map"
+    "main.1a1926d9.css.map": "/react-shopping-cart-prod/static/css/main.1a1926d9.css.map",
+    "main.0ab182db.js.map": "/react-shopping-cart-prod/static/js/main.0ab182db.js.map"
   },
   "entrypoints": [
-    "static/css/main.e136e837.css",
-    "static/js/main.7c2d211b.js"
+    "static/css/main.1a1926d9.css",
+    "static/js/main.0ab182db.js"
   ]
 }
